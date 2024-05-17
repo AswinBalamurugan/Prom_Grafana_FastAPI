@@ -6,3 +6,7 @@ python-multipart
 prometheus-fastapi-instrumentator
 prometheus_client
 psutil
+opencv-python
+# tensorflow==2.14
+# keras==2.14
+# utils

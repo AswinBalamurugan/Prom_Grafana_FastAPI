@@ -60,7 +60,7 @@ scrape_configs:
   enable_http2: true
   static_configs:
   - targets:
-    - 0.0.0.0:5000  
+    - localhost:9090
 
 - job_name: 'fast_api'
   scrape_interval: 5s  
